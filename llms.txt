@@ -1,2 +1,25 @@
 # Exeter Duct Cleaning
-HVAC services in Ontario.
+
+> Exeter Duct Cleaning is a local HVAC company serving Exeter, Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 901-0020  |  Email: contact@exeterductcleaning.ca  |  Website: https://exeterductcleaning.ca
+
+## Key pages
+
+- [Home](https://exeterductcleaning.ca/): Exeter Duct Cleaning homepage with service overview and FAQ
+- [About](https://exeterductcleaning.ca/about/): About the company and service area
+- [Contact](https://exeterductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://exeterductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Exeter, Ontario
+- [Dryer Vent Cleaning](https://exeterductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Exeter, Ontario
+- [Furnace & AC Cleaning](https://exeterductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Exeter, Ontario
+- [HRV & Ventilation Cleaning](https://exeterductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Exeter, Ontario
+- [Duct Sanitizing & Deodorizing](https://exeterductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Exeter, Ontario
+- [Duct Sealing & Repair](https://exeterductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Exeter, Ontario
+- [Commercial Duct Cleaning](https://exeterductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Exeter, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Exeter are answered on the homepage.
